@@ -1,0 +1,5 @@
+{
+  "name": "Apex Manager",
+  "description": "A dashboard to track trading performance, manage daily logs, and calculate withdrawal eligibility based on Apex Trader Funding PA rules.",
+  "requestFramePermissions": []
+}
